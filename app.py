@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("📊 Student Marks Analysis")
+st.title("📊 Student Marks Analysis- Version 2")
 
 st.write(
     "This application calculates the total, average, highest, "
