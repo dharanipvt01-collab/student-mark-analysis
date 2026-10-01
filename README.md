@@ -38,3 +38,18 @@ Install the required dependency:
 
 ```bash
 pip install -r requirements.txt
+## Deployment
+
+The application is deployed using Streamlit Community Cloud.
+
+### Live Application
+
+[Open Student Marks Analysis](https://student-mark-analysis-jpsafaar8cbapystfcyj5m.streamlit.app/)
+
+### Deployment Configuration
+
+- GitHub Repository: `student-marks-analysis`
+- Branch: `main`
+- Application file: `app.py`
+- Dependency file: `requirements.txt`
+- Deployment platform: Streamlit Community Cloud
