@@ -28,3 +28,13 @@ The project uses manually created student marks.
 
 ```python
 marks = [85, 72, 90, 65, 78, 88, 95, 60, 82, 75]
+## Web Application
+
+The project also includes a Streamlit web application.
+
+### Run Locally
+
+Install the required dependency:
+
+```bash
+pip install -r requirements.txt
